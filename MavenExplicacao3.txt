@@ -1,0 +1,2 @@
+1 - Criamos um projeto Maven
+	- Maven é um gerenciador de dependencias do Java, ele controla as dependencias externas (bibliotecas), versão do projeto, além disso controla o lifecycle do java, ou seja, compila o projeto, executa código e consegue automatizar isso para a gente
